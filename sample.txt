@@ -1,0 +1,808 @@
+The sun say it's 1 hour(s) now.
+The sun say it's 2 hour(s) now.
+The sun say it's 3 hour(s) now.
+The sun say it's 4 hour(s) now.
+The sun say it's 5 hour(s) now.
+The sun say it's 6 hour(s) now.
+The sun says that the day has started.
+The flower #1 is now open.
+The flower #2 is now open.
+The flower #3 is now open.
+The flower #4 is now open.
+The flower #5 is now open.
+The flower #6 is now open.
+The flower #7 is now open.
+The flower #8 is now open.
+The flower #9 is now open.
+The flower #10 is now open.
+Sugarbird 'sweety' is now awake.
+Sugarbird 'sweety' trying to feed on flower #9.
+A sugarbird has picked one nectar from flower #9
+Sugarbird 'sweety' fed on flower #9.
+The sun say it's 7 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #2.
+A sugarbird has picked one nectar from flower #2
+Sugarbird 'sweety' fed on flower #2.
+The sun say it's 8 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #2.
+A sugarbird has picked one nectar from flower #2
+Sugarbird 'sweety' fed on flower #2.
+The sun say it's 9 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #3.
+A sugarbird has picked one nectar from flower #3
+Sugarbird 'sweety' fed on flower #3.
+The sun say it's 10 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #8.
+A sugarbird has picked one nectar from flower #8
+Sugarbird 'sweety' fed on flower #8.
+The sun say it's 11 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #9.
+A sugarbird has picked one nectar from flower #9
+Sugarbird 'sweety' fed on flower #9.
+The sun say it's 12 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+A sugarbird has picked one nectar from flower #1
+Sugarbird 'sweety' fed on flower #1.
+The sun say it's 13 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #7.
+A sugarbird has picked one nectar from flower #7
+Sugarbird 'sweety' fed on flower #7.
+The sun say it's 14 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #8.
+A sugarbird has picked one nectar from flower #8
+Sugarbird 'sweety' fed on flower #8.
+The sun say it's 15 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #6.
+A sugarbird has picked one nectar from flower #6
+Sugarbird 'sweety' fed on flower #6.
+The sun say it's 16 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #3.
+A sugarbird has picked one nectar from flower #3
+Sugarbird 'sweety' fed on flower #3.
+The sun say it's 17 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #4.
+A sugarbird has picked one nectar from flower #4
+Sugarbird 'sweety' fed on flower #4.
+The sun say it's 18 hour(s) now.
+The sun says that the day has ended.
+The flower #1 is now closed.
+The flower #2 is now closed.
+The flower #3 is now closed.
+The flower #4 is now closed.
+The flower #5 is now closed.
+The flower #6 is now closed.
+The flower #7 is now closed.
+The flower #8 is now closed.
+The flower #9 is now closed.
+The flower #10 is now closed.
+Sugarbird 'sweety' is now sleeping.
+The sun say it's 19 hour(s) now.
+The sun say it's 20 hour(s) now.
+The sun say it's 21 hour(s) now.
+The sun say it's 22 hour(s) now.
+The sun say it's 23 hour(s) now.
+The sun say it's 0 hour(s) now.
+The sun say it's 1 hour(s) now.
+The sun say it's 2 hour(s) now.
+The sun say it's 3 hour(s) now.
+The sun say it's 4 hour(s) now.
+The sun say it's 5 hour(s) now.
+The sun say it's 6 hour(s) now.
+The sun says that the day has started.
+The flower #1 is now open.
+The flower #2 is now open.
+The flower #3 is now open.
+The flower #4 is now open.
+The flower #5 is now open.
+The flower #6 is now open.
+The flower #7 is now open.
+The flower #8 is now open.
+The flower #9 is now open.
+The flower #10 is now open.
+Sugarbird 'sweety' is now awake.
+Sugarbird 'sweety' trying to feed on flower #5.
+A sugarbird has picked one nectar from flower #5
+Sugarbird 'sweety' fed on flower #5.
+The sun say it's 7 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #7.
+A sugarbird has picked one nectar from flower #7
+Sugarbird 'sweety' fed on flower #7.
+The sun say it's 8 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #10.
+A sugarbird has picked one nectar from flower #10
+Sugarbird 'sweety' fed on flower #10.
+The sun say it's 9 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+A sugarbird has picked one nectar from flower #1
+Sugarbird 'sweety' fed on flower #1.
+The sun say it's 10 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #9.
+A sugarbird has picked one nectar from flower #9
+Sugarbird 'sweety' fed on flower #9.
+The sun say it's 11 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #2.
+A sugarbird has picked one nectar from flower #2
+Sugarbird 'sweety' fed on flower #2.
+The sun say it's 12 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #9.
+A sugarbird has picked one nectar from flower #9
+Sugarbird 'sweety' fed on flower #9.
+The sun say it's 13 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #7.
+A sugarbird has picked one nectar from flower #7
+Sugarbird 'sweety' fed on flower #7.
+The sun say it's 14 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #7.
+A sugarbird has picked one nectar from flower #7
+Sugarbird 'sweety' fed on flower #7.
+The sun say it's 15 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #6.
+A sugarbird has picked one nectar from flower #6
+Sugarbird 'sweety' fed on flower #6.
+The sun say it's 16 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #8.
+A sugarbird has picked one nectar from flower #8
+Sugarbird 'sweety' fed on flower #8.
+The sun say it's 17 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #10.
+A sugarbird has picked one nectar from flower #10
+Sugarbird 'sweety' fed on flower #10.
+The sun say it's 18 hour(s) now.
+The sun says that the day has ended.
+The flower #1 is now closed.
+The flower #2 is now closed.
+The flower #3 is now closed.
+The flower #4 is now closed.
+The flower #5 is now closed.
+The flower #6 is now closed.
+The flower #7 is now closed.
+The flower #8 is now closed.
+The flower #9 is now closed.
+The flower #10 is now closed.
+Sugarbird 'sweety' is now sleeping.
+The sun say it's 19 hour(s) now.
+The sun say it's 20 hour(s) now.
+The sun say it's 21 hour(s) now.
+The sun say it's 22 hour(s) now.
+The sun say it's 23 hour(s) now.
+The sun say it's 0 hour(s) now.
+The sun say it's 1 hour(s) now.
+The sun say it's 2 hour(s) now.
+The sun say it's 3 hour(s) now.
+The sun say it's 4 hour(s) now.
+The sun say it's 5 hour(s) now.
+The sun say it's 6 hour(s) now.
+The sun says that the day has started.
+The flower #1 is now open.
+The flower #2 is now open.
+The flower #3 is now open.
+The flower #4 is now open.
+The flower #5 is now open.
+The flower #6 is now open.
+The flower #7 is now open.
+The flower #8 is now open.
+The flower #9 is now open.
+The flower #10 is now open.
+Sugarbird 'sweety' is now awake.
+Sugarbird 'sweety' trying to feed on flower #9.
+A sugarbird has picked one nectar from flower #9
+Sugarbird 'sweety' fed on flower #9.
+The sun say it's 7 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #7.
+A sugarbird has picked one nectar from flower #7
+Sugarbird 'sweety' fed on flower #7.
+The sun say it's 8 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #4.
+A sugarbird has picked one nectar from flower #4
+Sugarbird 'sweety' fed on flower #4.
+The sun say it's 9 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+A sugarbird has picked one nectar from flower #1
+Sugarbird 'sweety' fed on flower #1.
+The sun say it's 10 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+A sugarbird has picked one nectar from flower #1
+Sugarbird 'sweety' fed on flower #1.
+The sun say it's 11 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #9.
+A sugarbird has picked one nectar from flower #9
+Sugarbird 'sweety' fed on flower #9.
+The sun say it's 12 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #3.
+A sugarbird has picked one nectar from flower #3
+Sugarbird 'sweety' fed on flower #3.
+The sun say it's 13 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #3.
+A sugarbird has picked one nectar from flower #3
+Sugarbird 'sweety' fed on flower #3.
+The sun say it's 14 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #5.
+A sugarbird has picked one nectar from flower #5
+Sugarbird 'sweety' fed on flower #5.
+The sun say it's 15 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #8.
+A sugarbird has picked one nectar from flower #8
+Sugarbird 'sweety' fed on flower #8.
+The sun say it's 16 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+A sugarbird has picked one nectar from flower #1
+Sugarbird 'sweety' fed on flower #1.
+The sun say it's 17 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #7.
+A sugarbird has picked one nectar from flower #7
+Sugarbird 'sweety' fed on flower #7.
+The sun say it's 18 hour(s) now.
+The sun says that the day has ended.
+The flower #1 is now closed.
+The flower #2 is now closed.
+The flower #3 is now closed.
+The flower #4 is now closed.
+The flower #5 is now closed.
+The flower #6 is now closed.
+The flower #7 is now closed.
+The flower #8 is now closed.
+The flower #9 is now closed.
+The flower #10 is now closed.
+Sugarbird 'sweety' is now sleeping.
+The sun say it's 19 hour(s) now.
+The sun say it's 20 hour(s) now.
+The sun say it's 21 hour(s) now.
+The sun say it's 22 hour(s) now.
+The sun say it's 23 hour(s) now.
+The sun say it's 0 hour(s) now.
+The sun say it's 1 hour(s) now.
+The sun say it's 2 hour(s) now.
+The sun say it's 3 hour(s) now.
+The sun say it's 4 hour(s) now.
+The sun say it's 5 hour(s) now.
+The sun say it's 6 hour(s) now.
+The sun says that the day has started.
+The flower #1 is now open.
+The flower #2 is now open.
+The flower #3 is now open.
+The flower #4 is now open.
+The flower #5 is now open.
+The flower #6 is now open.
+The flower #7 is now open.
+The flower #8 is now open.
+The flower #9 is now open.
+The flower #10 is now open.
+Sugarbird 'sweety' is now awake.
+Sugarbird 'sweety' trying to feed on flower #5.
+A sugarbird has picked one nectar from flower #5
+Sugarbird 'sweety' fed on flower #5.
+The sun say it's 7 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #2.
+A sugarbird has picked one nectar from flower #2
+Sugarbird 'sweety' fed on flower #2.
+The sun say it's 8 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #6.
+A sugarbird has picked one nectar from flower #6
+Sugarbird 'sweety' fed on flower #6.
+The sun say it's 9 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #5.
+A sugarbird has picked one nectar from flower #5
+Sugarbird 'sweety' fed on flower #5.
+The sun say it's 10 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #7.
+A sugarbird has picked one nectar from flower #7
+Sugarbird 'sweety' fed on flower #7.
+The sun say it's 11 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #5.
+A sugarbird has picked one nectar from flower #5
+Sugarbird 'sweety' fed on flower #5.
+The sun say it's 12 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+A sugarbird has picked one nectar from flower #1
+Sugarbird 'sweety' fed on flower #1.
+The sun say it's 13 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #3.
+A sugarbird has picked one nectar from flower #3
+Sugarbird 'sweety' fed on flower #3.
+The sun say it's 14 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #8.
+A sugarbird has picked one nectar from flower #8
+Sugarbird 'sweety' fed on flower #8.
+The sun say it's 15 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #2.
+A sugarbird has picked one nectar from flower #2
+Sugarbird 'sweety' fed on flower #2.
+The sun say it's 16 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #7.
+A sugarbird has picked one nectar from flower #7
+Sugarbird 'sweety' fed on flower #7.
+The sun say it's 17 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #9.
+A sugarbird has picked one nectar from flower #9
+Sugarbird 'sweety' fed on flower #9.
+The sun say it's 18 hour(s) now.
+The sun says that the day has ended.
+The flower #1 is now closed.
+The flower #2 is now closed.
+The flower #3 is now closed.
+The flower #4 is now closed.
+The flower #5 is now closed.
+The flower #6 is now closed.
+The flower #7 is now closed.
+The flower #8 is now closed.
+The flower #9 is now closed.
+The flower #10 is now closed.
+Sugarbird 'sweety' is now sleeping.
+The sun say it's 19 hour(s) now.
+The sun say it's 20 hour(s) now.
+The sun say it's 21 hour(s) now.
+The sun say it's 22 hour(s) now.
+The sun say it's 23 hour(s) now.
+The sun say it's 0 hour(s) now.
+The sun say it's 1 hour(s) now.
+The sun say it's 2 hour(s) now.
+The sun say it's 3 hour(s) now.
+The sun say it's 4 hour(s) now.
+The sun say it's 5 hour(s) now.
+The sun say it's 6 hour(s) now.
+The sun says that the day has started.
+The flower #1 is now open.
+The flower #2 is now open.
+The flower #3 is now open.
+The flower #4 is now open.
+The flower #5 is now open.
+The flower #6 is now open.
+The flower #7 is now open.
+The flower #8 is now open.
+The flower #9 is now open.
+The flower #10 is now open.
+Sugarbird 'sweety' is now awake.
+Sugarbird 'sweety' trying to feed on flower #8.
+A sugarbird has picked one nectar from flower #8
+Sugarbird 'sweety' fed on flower #8.
+The sun say it's 7 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #8.
+A sugarbird has picked one nectar from flower #8
+Sugarbird 'sweety' fed on flower #8.
+The sun say it's 8 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #9.
+A sugarbird has picked one nectar from flower #9
+Sugarbird 'sweety' fed on flower #9.
+The sun say it's 9 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #3.
+A sugarbird has picked one nectar from flower #3
+Sugarbird 'sweety' fed on flower #3.
+The sun say it's 10 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+A sugarbird has picked one nectar from flower #1
+Sugarbird 'sweety' fed on flower #1.
+The sun say it's 11 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #2.
+A sugarbird has picked one nectar from flower #2
+Sugarbird 'sweety' fed on flower #2.
+The sun say it's 12 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #9.
+A sugarbird has picked one nectar from flower #9
+Sugarbird 'sweety' fed on flower #9.
+The sun say it's 13 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #2.
+A sugarbird has picked one nectar from flower #2
+Sugarbird 'sweety' fed on flower #2.
+The sun say it's 14 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #4.
+A sugarbird has picked one nectar from flower #4
+Sugarbird 'sweety' fed on flower #4.
+The sun say it's 15 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #5.
+A sugarbird has picked one nectar from flower #5
+Sugarbird 'sweety' fed on flower #5.
+The sun say it's 16 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #2.
+A sugarbird has picked one nectar from flower #2
+Sugarbird 'sweety' fed on flower #2.
+The sun say it's 17 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #3.
+A sugarbird has picked one nectar from flower #3
+Sugarbird 'sweety' fed on flower #3.
+The sun say it's 18 hour(s) now.
+The sun says that the day has ended.
+The flower #1 is now closed.
+The flower #2 is now closed.
+The flower #3 is now closed.
+The flower #4 is now closed.
+The flower #5 is now closed.
+The flower #6 is now closed.
+The flower #7 is now closed.
+The flower #8 is now closed.
+The flower #9 is now closed.
+The flower #10 is now closed.
+Sugarbird 'sweety' is now sleeping.
+The sun say it's 19 hour(s) now.
+The sun say it's 20 hour(s) now.
+The sun say it's 21 hour(s) now.
+The sun say it's 22 hour(s) now.
+The sun say it's 23 hour(s) now.
+The sun say it's 0 hour(s) now.
+The sun say it's 1 hour(s) now.
+The sun say it's 2 hour(s) now.
+The sun say it's 3 hour(s) now.
+The sun say it's 4 hour(s) now.
+The sun say it's 5 hour(s) now.
+The sun say it's 6 hour(s) now.
+The sun says that the day has started.
+The flower #1 is now open.
+The flower #2 is now open.
+The flower #3 is now open.
+The flower #4 is now open.
+The flower #5 is now open.
+The flower #6 is now open.
+The flower #7 is now open.
+The flower #8 is now open.
+The flower #9 is now open.
+The flower #10 is now open.
+Sugarbird 'sweety' is now awake.
+Sugarbird 'sweety' trying to feed on flower #1.
+A sugarbird has picked one nectar from flower #1
+Sugarbird 'sweety' fed on flower #1.
+The sun say it's 7 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+A sugarbird has picked one nectar from flower #1
+Sugarbird 'sweety' fed on flower #1.
+The sun say it's 8 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #4.
+A sugarbird has picked one nectar from flower #4
+Sugarbird 'sweety' fed on flower #4.
+The sun say it's 9 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #4.
+A sugarbird has picked one nectar from flower #4
+Sugarbird 'sweety' fed on flower #4.
+The sun say it's 10 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #5.
+A sugarbird has picked one nectar from flower #5
+Sugarbird 'sweety' fed on flower #5.
+The sun say it's 11 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #3.
+A sugarbird has picked one nectar from flower #3
+Sugarbird 'sweety' fed on flower #3.
+The sun say it's 12 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #9.
+A sugarbird has picked one nectar from flower #9
+Sugarbird 'sweety' fed on flower #9.
+The sun say it's 13 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+A sugarbird has picked one nectar from flower #1
+Sugarbird 'sweety' fed on flower #1.
+The sun say it's 14 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #8.
+A sugarbird has picked one nectar from flower #8
+Sugarbird 'sweety' fed on flower #8.
+The sun say it's 15 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+There's no nectar on flower #1, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #1.
+Sugarbird 'sweety' trying to feed on flower #8.
+A sugarbird has picked one nectar from flower #8
+Sugarbird 'sweety' fed on flower #8.
+The sun say it's 16 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #8.
+A sugarbird has picked one nectar from flower #8
+Sugarbird 'sweety' fed on flower #8.
+The sun say it's 17 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #7.
+A sugarbird has picked one nectar from flower #7
+Sugarbird 'sweety' fed on flower #7.
+The sun say it's 18 hour(s) now.
+The sun says that the day has ended.
+The flower #1 is now closed.
+The flower #2 is now closed.
+The flower #3 is now closed.
+The flower #4 is now closed.
+The flower #5 is now closed.
+The flower #6 is now closed.
+The flower #7 is now closed.
+The flower #8 is now closed.
+The flower #9 is now closed.
+The flower #10 is now closed.
+Sugarbird 'sweety' is now sleeping.
+The sun say it's 19 hour(s) now.
+The sun say it's 20 hour(s) now.
+The sun say it's 21 hour(s) now.
+The sun say it's 22 hour(s) now.
+The sun say it's 23 hour(s) now.
+The sun say it's 0 hour(s) now.
+The sun say it's 1 hour(s) now.
+The sun say it's 2 hour(s) now.
+The sun say it's 3 hour(s) now.
+The sun say it's 4 hour(s) now.
+The sun say it's 5 hour(s) now.
+The sun say it's 6 hour(s) now.
+The sun says that the day has started.
+The flower #1 is now open.
+The flower #2 is now open.
+The flower #3 is now open.
+The flower #4 is now open.
+The flower #5 is now open.
+The flower #6 is now open.
+The flower #7 is now open.
+The flower #8 is now open.
+The flower #9 is now open.
+The flower #10 is now open.
+Sugarbird 'sweety' is now awake.
+Sugarbird 'sweety' trying to feed on flower #3.
+A sugarbird has picked one nectar from flower #3
+Sugarbird 'sweety' fed on flower #3.
+The sun say it's 7 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #9.
+There's no nectar on flower #9, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #9.
+Sugarbird 'sweety' trying to feed on flower #8.
+There's no nectar on flower #8, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #8.
+Sugarbird 'sweety' trying to feed on flower #10.
+A sugarbird has picked one nectar from flower #10
+Sugarbird 'sweety' fed on flower #10.
+The sun say it's 8 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+There's no nectar on flower #1, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #1.
+Sugarbird 'sweety' trying to feed on flower #6.
+A sugarbird has picked one nectar from flower #6
+Sugarbird 'sweety' fed on flower #6.
+The sun say it's 9 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #4.
+A sugarbird has picked one nectar from flower #4
+Sugarbird 'sweety' fed on flower #4.
+The sun say it's 10 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #2.
+A sugarbird has picked one nectar from flower #2
+Sugarbird 'sweety' fed on flower #2.
+The sun say it's 11 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #5.
+A sugarbird has picked one nectar from flower #5
+Sugarbird 'sweety' fed on flower #5.
+The sun say it's 12 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #7.
+A sugarbird has picked one nectar from flower #7
+Sugarbird 'sweety' fed on flower #7.
+The sun say it's 13 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #6.
+A sugarbird has picked one nectar from flower #6
+Sugarbird 'sweety' fed on flower #6.
+The sun say it's 14 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #2.
+A sugarbird has picked one nectar from flower #2
+Sugarbird 'sweety' fed on flower #2.
+The sun say it's 15 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #2.
+There's no nectar on flower #2, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #2.
+Sugarbird 'sweety' trying to feed on flower #10.
+A sugarbird has picked one nectar from flower #10
+Sugarbird 'sweety' fed on flower #10.
+The sun say it's 16 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #7.
+There's no nectar on flower #7, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #7.
+Sugarbird 'sweety' trying to feed on flower #1.
+There's no nectar on flower #1, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #1.
+Sugarbird 'sweety' trying to feed on flower #4.
+A sugarbird has picked one nectar from flower #4
+Sugarbird 'sweety' fed on flower #4.
+The sun say it's 17 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+There's no nectar on flower #1, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #1.
+Sugarbird 'sweety' trying to feed on flower #8.
+There's no nectar on flower #8, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #8.
+Sugarbird 'sweety' trying to feed on flower #9.
+There's no nectar on flower #9, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #9.
+Sugarbird 'sweety' trying to feed on flower #5.
+A sugarbird has picked one nectar from flower #5
+Sugarbird 'sweety' fed on flower #5.
+The sun say it's 18 hour(s) now.
+The sun says that the day has ended.
+The flower #1 is now closed.
+The flower #2 is now closed.
+The flower #3 is now closed.
+The flower #4 is now closed.
+The flower #5 is now closed.
+The flower #6 is now closed.
+The flower #7 is now closed.
+The flower #8 is now closed.
+The flower #9 is now closed.
+The flower #10 is now closed.
+Sugarbird 'sweety' is now sleeping.
+The sun say it's 19 hour(s) now.
+The sun say it's 20 hour(s) now.
+The sun say it's 21 hour(s) now.
+The sun say it's 22 hour(s) now.
+The sun say it's 23 hour(s) now.
+The sun say it's 0 hour(s) now.
+The sun say it's 1 hour(s) now.
+The sun say it's 2 hour(s) now.
+The sun say it's 3 hour(s) now.
+The sun say it's 4 hour(s) now.
+The sun say it's 5 hour(s) now.
+The sun say it's 6 hour(s) now.
+The sun says that the day has started.
+The flower #1 is now open.
+The flower #2 is now open.
+The flower #3 is now open.
+The flower #4 is now open.
+The flower #5 is now open.
+The flower #6 is now open.
+The flower #7 is now open.
+The flower #8 is now open.
+The flower #9 is now open.
+The flower #10 is now open.
+Sugarbird 'sweety' is now awake.
+Sugarbird 'sweety' trying to feed on flower #4.
+A sugarbird has picked one nectar from flower #4
+Sugarbird 'sweety' fed on flower #4.
+The sun say it's 7 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #10.
+A sugarbird has picked one nectar from flower #10
+Sugarbird 'sweety' fed on flower #10.
+The sun say it's 8 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #6.
+A sugarbird has picked one nectar from flower #6
+Sugarbird 'sweety' fed on flower #6.
+The sun say it's 9 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #2.
+There's no nectar on flower #2, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #2.
+Sugarbird 'sweety' trying to feed on flower #9.
+There's no nectar on flower #9, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #9.
+Sugarbird 'sweety' trying to feed on flower #6.
+A sugarbird has picked one nectar from flower #6
+Sugarbird 'sweety' fed on flower #6.
+The sun say it's 10 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #7.
+There's no nectar on flower #7, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #7.
+Sugarbird 'sweety' trying to feed on flower #2.
+There's no nectar on flower #2, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #2.
+Sugarbird 'sweety' trying to feed on flower #1.
+There's no nectar on flower #1, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #1.
+Sugarbird 'sweety' trying to feed on flower #10.
+A sugarbird has picked one nectar from flower #10
+Sugarbird 'sweety' fed on flower #10.
+The sun say it's 11 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #3.
+A sugarbird has picked one nectar from flower #3
+Sugarbird 'sweety' fed on flower #3.
+The sun say it's 12 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+There's no nectar on flower #1, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #1.
+Sugarbird 'sweety' trying to feed on flower #5.
+A sugarbird has picked one nectar from flower #5
+Sugarbird 'sweety' fed on flower #5.
+The sun say it's 13 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+There's no nectar on flower #1, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #1.
+Sugarbird 'sweety' trying to feed on flower #3.
+There's no nectar on flower #3, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #3.
+Sugarbird 'sweety' trying to feed on flower #9.
+There's no nectar on flower #9, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #9.
+Sugarbird 'sweety' trying to feed on flower #10.
+A sugarbird has picked one nectar from flower #10
+Sugarbird 'sweety' fed on flower #10.
+The sun say it's 14 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+There's no nectar on flower #1, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #1.
+Sugarbird 'sweety' trying to feed on flower #5.
+There's no nectar on flower #5, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #5.
+Sugarbird 'sweety' trying to feed on flower #3.
+There's no nectar on flower #3, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #3.
+Sugarbird 'sweety' trying to feed on flower #10.
+A sugarbird has picked one nectar from flower #10
+Sugarbird 'sweety' fed on flower #10.
+The sun say it's 15 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+There's no nectar on flower #1, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #1.
+Sugarbird 'sweety' trying to feed on flower #2.
+There's no nectar on flower #2, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #2.
+Sugarbird 'sweety' trying to feed on flower #7.
+There's no nectar on flower #7, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #7.
+Sugarbird 'sweety' trying to feed on flower #4.
+A sugarbird has picked one nectar from flower #4
+Sugarbird 'sweety' fed on flower #4.
+The sun say it's 16 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+There's no nectar on flower #1, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #1.
+Sugarbird 'sweety' trying to feed on flower #10.
+A sugarbird has picked one nectar from flower #10
+Sugarbird 'sweety' fed on flower #10.
+The sun say it's 17 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #6.
+A sugarbird has picked one nectar from flower #6
+Sugarbird 'sweety' fed on flower #6.
+The sun say it's 18 hour(s) now.
+The sun says that the day has ended.
+The flower #1 is now closed.
+The flower #2 is now closed.
+The flower #3 is now closed.
+The flower #4 is now closed.
+The flower #5 is now closed.
+The flower #6 is now closed.
+The flower #7 is now closed.
+The flower #8 is now closed.
+The flower #9 is now closed.
+The flower #10 is now closed.
+Sugarbird 'sweety' is now sleeping.
+The sun say it's 19 hour(s) now.
+The sun say it's 20 hour(s) now.
+The sun say it's 21 hour(s) now.
+The sun say it's 22 hour(s) now.
+The sun say it's 23 hour(s) now.
+The sun say it's 0 hour(s) now.
+The sun say it's 1 hour(s) now.
+The sun say it's 2 hour(s) now.
+The sun say it's 3 hour(s) now.
+The sun say it's 4 hour(s) now.
+The sun say it's 5 hour(s) now.
+The sun say it's 6 hour(s) now.
+The sun says that the day has started.
+The flower #1 is now open.
+The flower #2 is now open.
+The flower #3 is now open.
+The flower #4 is now open.
+The flower #5 is now open.
+The flower #6 is now open.
+The flower #7 is now open.
+The flower #8 is now open.
+The flower #9 is now open.
+The flower #10 is now open.
+Sugarbird 'sweety' is now awake.
+Sugarbird 'sweety' trying to feed on flower #2.
+There's no nectar on flower #2, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #2.
+Sugarbird 'sweety' trying to feed on flower #6.
+A sugarbird has picked one nectar from flower #6
+Sugarbird 'sweety' fed on flower #6.
+The sun say it's 7 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #5.
+There's no nectar on flower #5, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #5.
+Sugarbird 'sweety' trying to feed on flower #3.
+There's no nectar on flower #3, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #3.
+Sugarbird 'sweety' trying to feed on flower #6.
+A sugarbird has picked one nectar from flower #6
+Sugarbird 'sweety' fed on flower #6.
+The sun say it's 8 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #1.
+There's no nectar on flower #1, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #1.
+Sugarbird 'sweety' trying to feed on flower #8.
+There's no nectar on flower #8, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #8.
+Sugarbird 'sweety' trying to feed on flower #6.
+There's no nectar on flower #6, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #6.
+Sugarbird 'sweety' trying to feed on flower #7.
+There's no nectar on flower #7, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #7.
+Sugarbird 'sweety' trying to feed on flower #9.
+There's no nectar on flower #9, can't feed from it.
+Sugarbird 'sweety' failed to feed on flower #9.
+Sugarbird 'sweety' trying to feed on flower #10.
+A sugarbird has picked one nectar from flower #10
+Sugarbird 'sweety' fed on flower #10.
+The sun say it's 9 hour(s) now.
+Sugarbird 'sweety' trying to feed on flower #4.
+A sugarbird has picked one nectar from flower #4
+Sugarbird 'sweety' fed on flower #4.
+No more nectar! Finishing application...
